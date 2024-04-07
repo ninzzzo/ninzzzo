@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ninzzzo" target="blank"><img src="https://img.shields.io/twitter/follow/ninzzzo?logo=twitter&style=for-the-badge" alt="ninzzzo" /></a> </p>
 
-- 🔭 I’m currently working on **top-secret projects**
+- 🔭 I’m currently working on <br>**top-secret projects**
 
-- 👯 I’m looking to collaborate on **Time Travel Tour Guide**
+- 👯 I’m looking to collaborate on <br>**Time Travel Tour Guide**
 
-- 💬 Don't Ask me about **dsa**
+- 💬 Don't Ask me about <br>**dsa**
 
-- ⚡ Fun fact **its so funny, i dont wanna tell here**
+- ⚡ Fun fact <br>**its so funny, i dont wanna tell here**
 
-- 🌱 I’m currently learning **to be a spider-man**
+- 🌱 I’m currently learning <br>**to be a spider-man**
 
-- 📫 How to reach me **carrier pigeon**
+- 📫 How to reach me <br>**carrier pigeon**
 
 
 
