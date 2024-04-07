@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ninzzzo" target="blank"><img src="https://img.shields.io/twitter/follow/ninzzzo?logo=twitter&style=for-the-badge" alt="ninzzzo" /></a> </p>
 
-- 🔭 I’m currently working on **top-secret project**
+- 🔭 I’m currently working on **top-secret projects**
 
 - 👯 I’m looking to collaborate on **Time Travel Tour Guide**
 
@@ -15,9 +15,9 @@
 
 - ⚡ Fun fact **its so funny, i dont wanna tell here**
 
-- 🌱 I’m currently learning **webing**
+- 🌱 I’m currently learning **to be a spider-man**
 
-- 📫 How to reach me **Send a carrier pigeon, they know where I live**
+- 📫 How to reach me **carrier pigeon**
 
 
 
